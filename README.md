@@ -123,3 +123,10 @@ Add this to (Additional footer code)
 
 <script src="https://cdn.jsdelivr.net/gh/MrAbdelaziz/Youcan-theme/style/footer.js"></script>
 ```
+
+## :)
+☑ Watched the video!
+☐ Liked?
+☐ Subscribed?
+☑ theme installed !
+
