@@ -9,7 +9,7 @@ a simple (Free) Youcan theme for your Store
 
  change DATA and  Save
  
-3 -Edit CSS/javascript config (https://seller-area.youcan.shop/admin/settings/online#pixels)
+3 -Edit CSS/javascript config (https://seller-area.youcan.shop/admin/settings/online#css-js)
 
 Add this line to (Additional header code)
 ```html
