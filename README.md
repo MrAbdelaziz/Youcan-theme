@@ -1,12 +1,12 @@
 # Youcan-theme
 Free Youcan theme
 
-##Add this line To (Additional header code)
+##Add this To (Additional header code)
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/MrAbdelaziz/Youcan-theme/style/header-style.css">
 ```
 
-##Add this line To (Additional footer code)
+##Add this To (Additional footer code)
 ```html
 
 <!-- chat Widget -->
