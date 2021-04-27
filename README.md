@@ -2,6 +2,15 @@
 a simple (Free) Youcan theme for your Store
 
 ## Installation
+
+1 - download theme file: ( https://github.com/MrAbdelaziz/Youcan-theme/blob/main/theme.zip)
+
+2 - import theme file (https://seller-area.youcan.shop/admin/theme)
+
+ change DATA and  Save
+ 
+3 -Edit CSS/javascript config (https://seller-area.youcan.shop/admin/settings/online#pixels)
+
 Add this line to (Additional header code)
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/MrAbdelaziz/Youcan-theme/style/header-style.css">
