@@ -1,12 +1,13 @@
 # Youcan-theme
-Free Youcan theme
+a simple (Free) Youcan theme for your Store
 
-##Add this To (Additional header code)
+## Installation
+Add this line to (Additional header code)
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/MrAbdelaziz/Youcan-theme/style/header-style.css">
 ```
 
-##Add this To (Additional footer code)
+Add this to (Additional footer code)
 ```html
 
 <!-- chat Widget -->
